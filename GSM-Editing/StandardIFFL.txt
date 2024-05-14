@@ -1,0 +1,14 @@
+2024-02-28
+
+RNAP (U/uL):     3.57
+RNaseH (U/uL):   0.00892
+
+Input Domains:   ['G2', 'G2', 'G3', 'G1']
+Output Domains:  ['C1', 'C3', 'R1', '']
+Initial State:   ['OFF', 'OFF', 'BLK', 'BLK']
+Node Conc. (nM): [25.  5. 25. 25.]
+
+Activator Conc. (nM):     [250. 250. 250.]
+Blocker Conc. (nM):       [37.5  0.  37.5]
+
+Anti-Repressor Conc. (nM):[0. 0. 0.]

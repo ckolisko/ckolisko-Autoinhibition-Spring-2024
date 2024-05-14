@@ -1,0 +1,5 @@
+Optimized Rates:
+ {'EnzymeProduction -> 0': -0.8284371240882233, 'RNaseA -> None': 4.536215100356683}
+
+Optimized Time Delays:
+ [0.00083428 0.         0.         0.0005256  0.001549  ]
